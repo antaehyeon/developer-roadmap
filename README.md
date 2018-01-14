@@ -1,14 +1,23 @@
 ![Web Developer Roadmap](https://i.imgur.com/oxsayps.png)
 
 > Roadmap to becoming a web developer in 2018
+>
+> 2018년에 웹 개발자가 되기 위한 로드맵
 
 Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
 
+아래에는 프론트엔드, 백엔드, Devops가 되기 위해 선택할 수 있는 경로와 기술들을 보여주는 차트가 제시되어 있습니다. 이 차트는 대학생들에게 관점을 제공하기 위해서 옛 교수님과 만들었고 그것을 공유합니다.
+
 If you think that these can be improved in anyway, please do suggest.
+
+어떤 것이든 개선될 것이 있다고 생각되면, 제안을 부탁드립니다 :)
 
 ***
 
 <p align="center"><b> Did you like this guide and want more of the similar content? </b><br>Subscribe for the launch of <a href="http://hugobots.com">Hugobots</a> or <a href="http://twitter.com/kamranahmedse">follow me on twitter</a>!</p>
+
+<p align="center"><b> 이 가이드가 마음에 들거나, 유사한 컨텐츠를 더 원하시나요? </b><br>
+<a href="http://hugobots.com">Hugobots</a> 구독 또는 <a href="http://twitter.com/kamranahmedse">트위터를 팔로우</a> 해주세요! </p>
 
 ***
 
@@ -39,9 +48,9 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 
 ## ☑ TODO
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
+- [x] Add Frontend Roadmap
+- [x] Add Backend Roadmap
+- [x] Add DevOps Roadmap
 - [ ] Add relevant resources for each
 
 ## 👬 Contribution
