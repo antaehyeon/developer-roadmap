@@ -36,13 +36,17 @@ If you think that these can be improved in anyway, please do suggest.
 
 ![](https://i.imgur.com/WrfLESm.png)
 
-## 👽 Back-end Roadmap
+## 👽 백엔드 로드맵 : Back-end Roadmap
+
+**백엔드에서는, 개인적으로 Node.js 와 PHP 7을 선호합니다. 최근에는 Go 언어도 사용해봤는데, 상당히 마음에 들었습니다. 이것들만 제외하고 선택해야 한다면, Ruby를 추천합니다. 하지만 이것은 어디까지나 제 개인적인 취향이고, 여러분들은 표시된 언어 중 어떤 것을 선택하든 잘 하실겁니다.**
 
 For the backend, personally I would prefer Node.js and PHP 7 for the full time. Plus, I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
 
+![](https://i.imgur.com/Ko71289.png)
+
 ![](https://i.imgur.com/Ihg4YAb.png)
 
-## 👷 DevOps Roadmap
+## 👷 데브옵스 로드맵 : DevOps Roadmap
 
 ![](https://i.imgur.com/wpj5pqk.png)
 
