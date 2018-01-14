@@ -1,16 +1,16 @@
 ![Web Developer Roadmap](https://i.imgur.com/oxsayps.png)
 
-> Roadmap to becoming a web developer in 2018
+> ### **2018년에 웹 개발자가 되기 위한 로드맵**
 >
-> 2018년에 웹 개발자가 되기 위한 로드맵
+> Roadmap to becoming a web developer in 2018
+
+#### **아래에는 프론트엔드, 백엔드, Devops가 되기 위해 선택할 수 있는 경로와 기술들을 보여주는 차트가 제시되어 있습니다. 이 차트는 대학생들에게 관점을 제공하기 위해서 옛 교수님과 만들었고 그것을 공유합니다.**
 
 Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
 
-아래에는 프론트엔드, 백엔드, Devops가 되기 위해 선택할 수 있는 경로와 기술들을 보여주는 차트가 제시되어 있습니다. 이 차트는 대학생들에게 관점을 제공하기 위해서 옛 교수님과 만들었고 그것을 공유합니다.
+#### **어떤 것이든 개선될 것이 있다고 생각되면, 제안을 부탁드립니다 :)**
 
 If you think that these can be improved in anyway, please do suggest.
-
-어떤 것이든 개선될 것이 있다고 생각되면, 제안을 부탁드립니다 :)
 
 ***
 
@@ -22,13 +22,17 @@ If you think that these can be improved in anyway, please do suggest.
 ***
 
 
-## 🚀 Introduction : 소개
-
-![](https://i.imgur.com/OZUOUtI.png)
+## 🚀 소개 : Introduction
 
 ![](https://i.imgur.com/LXR1B4u.png)
 
-## 🎨 Front-end Roadmap
+![](https://i.imgur.com/OZUOUtI.png)
+
+
+
+## 🎨 프론트엔드 로드맵 : Front-end Roadmap
+
+![](https://i.imgur.com/cOq0MeN.png)
 
 ![](https://i.imgur.com/WrfLESm.png)
 
