@@ -54,31 +54,35 @@ For the backend, personally I would prefer Node.js and PHP 7 for the full time. 
 
 <br>
 
-## 🚦 Wrap Up
+## 🚦 마무리 : Wrap Up
+
+**만약에 로드맵의 어떠한 것이든 개선될것이 있다면, PR을 열고 문제를 제출해주세요. 저 또한 계속해서 이것을 개선시킬것이니 원한다면 watch/star 을 통해서 레포지토리를 다시 방문해주세요.**
 
 If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
 
-## ☑ TODO
+## ☑ 할일 : TODO
 
-- [x] Add Frontend Roadmap
-- [x] Add Backend Roadmap
-- [x] Add DevOps Roadmap
+- [x] 프론트엔드 로드맵 추가 : Add Frontend Roadmap
+- [x] 백엔드 로드맵 추가 : Add Backend Roadmap
+- [x] 데브옵스 로드맵 추가 : Add DevOps Roadmap
 - [ ] Add relevant resources for each
 
-## 👬 Contribution
+## 👬 기여 : Contribution
+
+**해당 로드맵은 [Balsamiq](https://balsamiq.com/products/mockups/)를 사용해서 제작되었습니다. 프로젝트 파일은 /project-file/ 디렉토리에서 찾을 수 있습니다. 로드맵을 수정하려면 Balsamik을 열고, Project > Import > MockupJSON 을 통해서 해당 파일의 내용을 붙여넣으면 로드맵이 열립니다. 이를 수정하고, 이미지를 업로드해서 README를 수정하시고 PR을 만드세요.**
 
 The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/project-files` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it, upload and update the images in readme and create a PR.		
 
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
+- 개선사항은 pull 요청으로 진행하세요 : Open pull request with improvements
+- 논의는 이슈로 진행하세요 : Discuss ideas in issues
+- 공유해주세요 : Spread the word
+- 어떤 피드백이든 연락을 취하고 싶다면 : Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
 
-## Sponsored By
+## 스폰서 : Sponsored By
 
 - [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
 - [Highig - Think and its done](http://highig.com/)
 
-## License
+## 라이선스 : License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
