@@ -22,9 +22,11 @@ If you think that these can be improved in anyway, please do suggest.
 ***
 
 
-## 🚀 Introduction
+## 🚀 Introduction : 소개
 
 ![](https://i.imgur.com/OZUOUtI.png)
+
+![](https://i.imgur.com/LXR1B4u.png)
 
 ## 🎨 Front-end Roadmap
 
